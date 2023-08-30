@@ -130,6 +130,18 @@ export default {
       ],
       Students_2020:[
         {
+          StudentName:'韩宇杰',
+          StudentResearchDirection:"算法",
+          StudentAwards:"安徽省大数据与人工智能竞赛二等奖，蓝桥杯国赛二等奖",
+          StudentImg:require("@/assets/Students/YujieHan.jpg")
+        },
+        {
+          StudentName:'洪安',
+          StudentResearchDirection:"大数据处理与分析",
+          StudentAwards:"计算机博弈国一，安徽省大数据人工智能 (大数据) 省二",
+          StudentImg:require("@/assets/Students/AnHong.jpg")
+        },
+        {
           StudentName:'杨舒云',
           StudentResearchDirection:"数据分析",
           StudentAwards:"计算机博弈国赛围棋冠军，第十四届蓝桥杯程序设计（Python组）省级三等奖",
@@ -145,7 +157,7 @@ export default {
           StudentName:'张朝阳',
           StudentResearchDirection:"凝聚态理论",
           StudentAwards:"蓝桥杯省级二等奖，计算机博弈一等奖，服务外包二等奖",
-          StudentImg:require("@/assets/Students/RulingGao.jpg"),
+          StudentImg:require("@/assets/Students/ChaoyangZhang.jpg"),
           StudentInfo: '学的越多，不会的越多'
         }
         ,
@@ -156,7 +168,7 @@ export default {
           StudentImg:require("@/assets/Students/BoWang.jpg"),
         },
         {
-          StudentName:'洪安',
+          StudentName:'狄松龙',
           StudentResearchDirection:"数学建模",
           StudentAwards:"蓝桥杯省级一等奖，数学建模省级二等奖，计算机博弈省级二等奖",
           StudentImg:require("@/assets/Students/SonglongDi.jpg"),
